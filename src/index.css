@@ -1,0 +1,23 @@
+html, body{
+  background-color: #20232A;
+  color: white;
+  font-size: 1.3rem;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 60px;
+}
+
+button{
+  font-size: 1.3rem;
+
+}
+
+input{
+  width: 100%;
+  color: grey;
+  font-size: 1.3rem;
+}
+
+.card{
+  background-color: #20232A;
+  width: 18rem
+}
